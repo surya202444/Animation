@@ -316,11 +316,7 @@ opacity: 0;
 
 
 
-.head-cta {
-animation: 1.2s rightIn ease-out forwards;
-animation-delay: 0.4s;
-opacity: 0;
-}
+
 .right img {
 animation: moveRotate 7s ;
 
